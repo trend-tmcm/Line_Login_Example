@@ -1,3 +1,4 @@
+[![Build status](https://dev.azure.com/trendtmcm/BMI_Project/_apis/build/status/Line)](https://dev.azure.com/trendtmcm/BMI_Project/_build/latest?definitionId=5)
 # LINE Login Example
 <img src='http://arock.blob.core.windows.net/blogdata201702/14-215656-e2740e6c-82bb-489b-9792-a271086e7e4e.png' />
 <div class="panel-body">
